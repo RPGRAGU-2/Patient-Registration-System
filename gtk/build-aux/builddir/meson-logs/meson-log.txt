@@ -1,0 +1,11 @@
+Build started at 2026-09-22T20:59:14.995653
+Main binary: /usr/bin/python3
+Build Options: -Dprefix=/opt/gtk
+Python system: Linux
+The Meson build system
+Version: 1.7.0
+Source dir: /home/ragu/Documents/Codex/2026-09-21/v/outputs/patient-registration-system/gtk
+Build dir: /home/ragu/Documents/Codex/2026-09-21/v/outputs/patient-registration-system/gtk/builddir
+Build type: native build
+
+meson.build:11:24: ERROR: Meson version is 1.7.0 but project requires >= 1.8.0
